@@ -1,6 +1,4 @@
-
 <div style="display: grid; justify-content: center; text-align: center;">
-<br><br>
 
 <h2>Diogo Miguel</h2>
 
